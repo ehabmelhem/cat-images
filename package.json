@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"cd backend && nodemon server.js",
-    "react":"cd app && npm start",
+    "react":"cd app && npm start"
   },
   "keywords": [],
   "author": "",
